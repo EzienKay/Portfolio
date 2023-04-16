@@ -34,3 +34,32 @@ p, h2, h3, h4, h5, h5, small {
     font-size: 16px;
 }
 
+.card-p{
+    font-size: 16px;
+    color: #828282;
+    font-weight: 500;
+}
+
+.card-h3{
+    font-size: 16px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.exp-h2{
+   font-size: 24px;
+    color: #4f4f4f;
+    font-weight: 500; 
+}
+
+.project-text{
+    font-size: 18px;
+    font-weight: 500;
+    color: #4F4F4F;
+}
+
+.c-head{
+    font-size: 18px;
+    font-weight: 600;
+    color: #333333;
+}
